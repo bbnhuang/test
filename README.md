@@ -9,3 +9,5 @@ Learn-git-from-zero (stormzhang's pdf)
 并且
 
 能贡献一些有意思的事情
+
+加油
